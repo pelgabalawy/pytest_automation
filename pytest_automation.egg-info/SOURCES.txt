@@ -1,0 +1,9 @@
+README.md
+setup.py
+pytest_automation.egg-info/PKG-INFO
+pytest_automation.egg-info/SOURCES.txt
+pytest_automation.egg-info/dependency_links.txt
+pytest_automation.egg-info/requires.txt
+pytest_automation.egg-info/top_level.txt
+webui/__init__.py
+webui/conftest.py
